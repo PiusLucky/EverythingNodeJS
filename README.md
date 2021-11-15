@@ -5,6 +5,8 @@ hmm... just some images and pdfs, including links explaining Authorization and A
 You can check the branches above for the different sections.
 
 # Using JWT
+
+Check https://www.npmjs.com/package/jsonwebtoken for help.
 https://jwt.io/introduction
 ## How do JSON Web Tokens work?
 In authentication, when the user successfully logs in using their credentials, a JSON Web Token will be returned. Since tokens are credentials, great care must be taken to prevent security issues. In general, you should not keep tokens longer than required.
